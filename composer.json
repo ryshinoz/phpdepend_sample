@@ -1,0 +1,8 @@
+{
+    "require": {
+        "pdepend/pdepend" : "1.1.0"
+    },
+    "config": {
+        "bin-dir" : "bin/"
+    }   
+}
